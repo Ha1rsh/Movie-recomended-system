@@ -14,13 +14,13 @@ A content-based movie recommender app built using **Python**, **Pandas**, **Scik
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The app uses a TF-IDF vectorizer to convert movie overviews and genres into numerical form. Then, it calculates cosine similarity between movies to find and recommend the most similar titles.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
