@@ -35,11 +35,11 @@ venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Mac/Linux
 ```
 
-###3. Install Dependencies
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###4. Download Dataset
+### 4. Download Dataset
 ```
 Download the TMDB dataset from Kaggle:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
